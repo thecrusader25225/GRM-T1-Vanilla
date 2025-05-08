@@ -1,9 +1,0 @@
-{
-    "input": "analog_gauge_reader/uploads/image5.jpg",
-    "detection_model": "analog_gauge_reader/models/gauge_detection_model.pt",
-    "key_point_model": "analog_gauge_reader/models/key_point_model.pt",
-    "segmentation_model": "analog_gauge_reader/models/segmentation_model.pt",
-    "base_path": "analog_gauge_reader/results",
-    "debug": true,
-    "eval": true
-}
